@@ -1,4 +1,4 @@
-# How to use ebpf for code tracing
+# How to use ebpf for function tracing
 
 ## Demo #1: a simple golang http server
 
